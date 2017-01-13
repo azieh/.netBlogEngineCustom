@@ -41,3 +41,8 @@ D:\Blog\proj\BlogEngine\BlogEngine.NET\bin\System.Web.WebPages.Razor.xml
 D:\Blog\proj\BlogEngine\BlogEngine.NET\obj\Debug\BlogEngine.NET.csprojResolveAssemblyReference.cache
 D:\Blog\proj\BlogEngine\BlogEngine.NET\obj\Debug\BlogEngine.NET.dll
 D:\Blog\proj\BlogEngine\BlogEngine.NET\obj\Debug\BlogEngine.NET.pdb
+D:\Blog\proj\BlogEngine\BlogEngine.NET\bin\EntityFramework.dll
+D:\Blog\proj\BlogEngine\BlogEngine.NET\bin\EntityFramework.SqlServer.dll
+D:\Blog\proj\BlogEngine\BlogEngine.NET\bin\System.Data.SQLite.EF6.dll
+D:\Blog\proj\BlogEngine\BlogEngine.NET\bin\EntityFramework.xml
+D:\Blog\proj\BlogEngine\BlogEngine.NET\bin\EntityFramework.SqlServer.xml

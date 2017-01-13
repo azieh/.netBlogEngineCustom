@@ -56,6 +56,12 @@
             <see cref="T:System.IDisposable"/>. 
             </param>
         </member>
+        <member name="M:SimpleInjector.Extensions.ExecutionContextScoping.ExecutionContextScopeLifestyle.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:SimpleInjector.Extensions.ExecutionContextScoping.ExecutionContextScopeLifestyle"/> class.
+            </summary>
+            <param name="name">The user friendly name of this lifestyle.</param>
+        </member>
         <member name="M:SimpleInjector.Extensions.ExecutionContextScoping.ExecutionContextScopeLifestyle.#ctor(System.String,System.Boolean)">
             <summary>
             Initializes a new instance of the <see cref="T:SimpleInjector.Extensions.ExecutionContextScoping.ExecutionContextScopeLifestyle"/> class.
