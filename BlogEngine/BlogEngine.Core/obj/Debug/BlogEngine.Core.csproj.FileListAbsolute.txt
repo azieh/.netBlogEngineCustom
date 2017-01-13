@@ -1,0 +1,13 @@
+D:\Blog\proj\BlogEngine\BlogEngine.Core\bin\Debug\BlogEngine.Core.XML
+D:\Blog\proj\BlogEngine\BlogEngine.Core\bin\Debug\BlogEngine.Core.dll
+D:\Blog\proj\BlogEngine\BlogEngine.Core\bin\Debug\BlogEngine.Core.pdb
+D:\Blog\proj\BlogEngine\BlogEngine.Core\bin\Debug\AjaxMin.dll
+D:\Blog\proj\BlogEngine\BlogEngine.Core\bin\Debug\BlogML.dll
+D:\Blog\proj\BlogEngine\BlogEngine.Core\bin\Debug\Dynamic.dll
+D:\Blog\proj\BlogEngine\BlogEngine.Core\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Blog\proj\BlogEngine\BlogEngine.Core\bin\Debug\Microsoft.Web.XmlTransform.dll
+D:\Blog\proj\BlogEngine\BlogEngine.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Blog\proj\BlogEngine\BlogEngine.Core\bin\Debug\NuGet.Core.dll
+D:\Blog\proj\BlogEngine\BlogEngine.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Blog\proj\BlogEngine\BlogEngine.Core\obj\Debug\BlogEngine.Core.dll
+D:\Blog\proj\BlogEngine\BlogEngine.Core\obj\Debug\BlogEngine.Core.pdb
